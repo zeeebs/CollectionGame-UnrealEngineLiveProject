@@ -50,7 +50,7 @@ The objective of the game is to collect all 30 orbs without dying. Upon collisio
 <p id="HealthSystem">
 <h3>Health System</h3>
 
-The main obstacle in the game is the floating platforms that need to be traversed to move from one platform to another. If you fall, you may lose health. If there is damage, the health bar will change to reflect the lost health.
+The main obstacle in the game is the floating platforms that need to be traversed to move from one structure to another in order to collect the orbs. If you fall, you may lose health. If there is damage, the health bar will change to reflect the lost health.
 
 <h4>Health Widget Blueprint</h4>
 
@@ -63,7 +63,7 @@ The main obstacle in the game is the floating platforms that need to be traverse
 </p>
 <p id="DamageSystem">
 <h3>Damage System</h3>
-The damage system is set up via time, so losing health is determined by how long the player is falling for. If the fall is over one second, the player will lose health at intervals of 25%. If the player dies, the game ends.
+The damage system is triggered using time, so losing health is determined by how long the player is falling for. If the fall is over one second, the player will lose health at intervals of 25%. If the player dies, the game ends.
 
 <h4>Damage System Blueprint</h4>
 
