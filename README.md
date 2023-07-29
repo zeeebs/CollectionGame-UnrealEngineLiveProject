@@ -27,6 +27,10 @@ Below are descriptions of the features I made for my game, along with images of 
 The objective of the game is to collect all 30 orbs without dying. Upon collision, the orb is destroyed and the HUD reduces the total amount of orbs left by one. For added UI, a sound is played when the orb is collected.
 
 ![Collectibles Count Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/CollectCount.png)
+![Collectibles HUD Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/CollectHUD.png)
+![Collectibles Create HUD Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/CreateHUD.png)
+![Collectibles Sound and Destroy Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/CollectSoundDestroy.png)
+![Winning Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/YouWin.png)
 
 </p>
 <p id="HealthSystem">
@@ -34,17 +38,27 @@ The objective of the game is to collect all 30 orbs without dying. Upon collisio
 
 The main obstacle in the game is the floating platforms that need to be traversed to move from one platform to another. If you fall, you may lose health. If there is damage, the health bar will change to reflect the lost health.
 
+![Health Widget Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/HealthWidget.png)
+![Create Health Widget Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/CreateHealthWidget.png)
 
 </p>
 <p id="DamageSystem">
 <h3>Damage System</h3>
 The damage system is set up via time, so losing health is determined by how long the player is falling for. If the fall is over one second, the player will lose health at intervals of 25%. If the player dies, the game ends.
 
+![Damage System Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/DamageSystem.png)
+![Receive Damage Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/ReceiveDamage.png)
+![Game Over Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/GameOver.png)
+
 </p>
 <p id="Scene Switches">    
 <h3>Scene Switches</h3>
 
 There are 3 scene switches. This includes a main menu scene to play the game, the game over scene when the player dies, and a scene for when the player is successful in collecting all 30 orbs. The main menu scene has a play button and a quit button. The game over and winning scenes have a retry button, a quit button, and a main menu button.
+
+![Main Menu Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/MainMenu.png)
+![Win Menu Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/WinMenu.png)
+![Game Over Menu Blueprint](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/LoseMenu.png)
 
 </p>
 <p id="Other Skills">
