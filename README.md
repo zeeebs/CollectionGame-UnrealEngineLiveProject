@@ -1,4 +1,4 @@
-# CollectionGame-UnrealEngineLiveProject
+# Collection Game - Unreal Engine Live Project
 
 <p id="Page Top">
 Collectible Game using Unreal Engine
@@ -108,10 +108,17 @@ There are 3 scene switches. This includes a main menu scene to play the game, th
 <p id="Images">
 <h3>Images</h3>\
 
-Lastly, here are some images from the final product. All the artwork was self-made using Procreate.
+Lastly, here are some images from the final product.
 
-
-
-
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/GameOverMenu.png)
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/StartMenu.png)
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/YouWinMenu.png)
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/inGame.png)
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/Platforms.png)
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/landscaping1.png)
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/landscaping2.png)
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/landscaping3.png)
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/fromAbove.png)
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/sideView.png)
   
 <h4><a href="#CollectibleSystem">Collectible System</a>, <a href="#HealthSystem">Health System</a>, <a href="#DamageSystem">Damage System</a>, <a href="#Scene Switches">Scene Switches</a>, <a href="#Other Skills">Other Skills</a>, <a href="#Images">Images</a>, <a href="#Page Top">Page Top</a></h4>
