@@ -110,9 +110,9 @@ There are 3 scene switches. This includes a main menu scene to play the game, th
 
 Lastly, here are some images from the final product.
 
-![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/GameOverMenu.png)
 ![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/StartMenu.png)
 ![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/YouWinMenu.png)
+![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/GameOverMenu.png)
 ![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/inGame.png)
 ![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/Platforms.png)
 ![Game Image](https://github.com/zeeebs/CollectionGame-UnrealEngineLiveProject/blob/main/img/landscaping1.png)
