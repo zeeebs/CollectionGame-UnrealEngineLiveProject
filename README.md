@@ -106,7 +106,7 @@ There are 3 scene switches. This includes a main menu scene to play the game, th
 
 </p>
 <p id="Images">
-<h3>Images</h3>\
+<h3>Images</h3>
 
 Lastly, here are some images from the final product.
 
