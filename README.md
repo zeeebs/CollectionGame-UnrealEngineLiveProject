@@ -1,7 +1,7 @@
-# Collection Game - Unreal Engine Live Project
+#StackOBot Collection Game - Unreal Engine Live Project
 
 <p id="Page Top">
-Collectible Game using Unreal Engine
+StackOBot Collection Game using Unreal Engine
 
 This project was created using Unreal Engine. It showcases landscaping, a graphical health bar with a damage system, a self-updating collectibles system also with a graphical component, scene switches, and sound effects and music. 
 
