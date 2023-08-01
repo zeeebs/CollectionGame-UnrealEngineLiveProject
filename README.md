@@ -1,9 +1,9 @@
-#Collection Game - Unreal Engine Live Project
+# StackOBot Collection Game - Unreal Engine Live Project
 
 <p id="Page Top">
 StackOBot Collection Game using Unreal Engine
 
-This project was created using Unreal Engine. It showcases landscaping, a graphical health bar with a damage system, a self-updating collectibles system also with a graphical component, scene switches, and sound effects and music. 
+This project was created using Unreal Engine and the StackOBot game file. It showcases landscaping, a graphical health bar with a damage system, a self-updating collectibles system also with a graphical component, scene switches, and sound effects and music. 
 
 After completing the Tech Academy's C++ and Unreal Engine Course of the Game Developer Bootcamp, I worked along side other students during a two-week Sprint to develop a full-scale game. I had free range to create virtually any game I wanted, which allowed for a lot of learning oportunities. Since the development was all done on an individual level, I developed the back-end and front-end aspects of the game. Through this project, I became comfortable using Unreal Engine and I am very excited to keep exploring the vast features it has to offer.
 
