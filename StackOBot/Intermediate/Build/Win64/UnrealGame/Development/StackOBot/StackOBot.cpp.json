@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\zella\\desktop\\tech academy\\c-plusplus-and-unrealengine\\ue5\\stackobot\\intermediate\\source\\stackobot.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zella\\desktop\\tech academy\\c-plusplus-and-unrealengine\\ue5\\stackobot\\intermediate\\build\\win64\\stackobot\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\zella\\desktop\\tech academy\\c-plusplus-and-unrealengine\\ue5\\stackobot\\intermediate\\build\\win64\\unrealgame\\development\\stackobot\\definitions.stackobot.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
