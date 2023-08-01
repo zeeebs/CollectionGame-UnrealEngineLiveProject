@@ -1,4 +1,4 @@
-#StackOBot Collection Game - Unreal Engine Live Project
+#Collection Game - Unreal Engine Live Project
 
 <p id="Page Top">
 StackOBot Collection Game using Unreal Engine
